@@ -1,4 +1,4 @@
-#!/usr/bin/Rscript --vanilla
+#!/usr/bin/env Rscript
 ######################################
 #  Support for FCS sniffer function  #
 ######################################
